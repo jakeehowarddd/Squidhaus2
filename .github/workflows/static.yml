@@ -1,0 +1,131 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Squid Haus Shorts - Explore the Latest Collection of Bottoms</title>
+    <!-- Optimization: Enhanced title tag for better search engine visibility and user understanding -->
+    <meta name="description" content="Explore the latest collection of SquidHaus bottoms. From black to navy blue gym shorts, find your high performance mens 4 inch inseam shorts for $50. Shop now!">
+    <!-- Optimization: Added meta description for better search engine visibility, contains keywords -->
+   
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            text-align: center;
+            background-color: #f3f3f3; /* Optimization: Added background color for improved readability that contrasts black text well */
+        }
+        h1 {
+            color: black; 
+        }
+        p {
+            color: black;
+            font-size: 16px; /*Optimization: Improved font size for better readability */
+        }
+      
+        .separation-line {
+            border-top: 1px solid black; 
+            margin: 20px 0;
+        }
+        .shorts {
+            display: flex;
+            flex-wrap: wrap;
+            justify-content: space-around; 
+        }
+        .shorts > div {
+            flex: 0 0 calc(33.33% - 20px); 
+    
+            margin: 10px;
+            text-align: center;
+        }
+        .shorts img {
+            width: 90%; 
+            height: 80%; 
+            border-radius: 10px; 
+        }
+        .product-name {
+            color: #070404;
+            font-weight: bold;
+        }
+        .header.links {
+            text-align: right;
+            flex-direction: column;
+        
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <h1>Squid Haus</h1>
+        <div class="header.links">    
+            <button class="login">Login</button>
+            <button class="Create Account">Create Account</button>
+            <button class="View My Cart">My Cart</button>
+        </div>
+        <div class="separation-line"></div>
+        
+        
+      
+    </header>
+   
+    <main>
+        <img src="https://squidhaus.com/cdn/shop/files/Screenshot_2024-01-10_at_12.24.20_AM.png?v=1704867918&width=2000" alt="Squid Haus image of man sititng on basketball hoop with text stating death over average and unyielding ascent climgb higher, go further"> <!-- Optimization: Supporting media that complements my content and Alt text that describes my  image -->
+        <p>SquidHaus is a metaphor for chasing perfection. The fulfillment in doing so does not come from the result but from the process itself.</p>
+        <!-- Optimization: Added paragraph break for better readability -->
+        <p>Members of the SquidHaus community strive for perfection but know that it is not achievable. There is no peak... only a never-ending climb.</p>
+        <!-- Optimization: Added paragraph break for better readability -->
+        <div class="separation-line"></div>
+    
+        <h2>Bottoms</h2>
+        <div class="shorts">
+            <div>
+                <img src="https://squidhaus.com/cdn/shop/files/PhotoRoom_001_20230725_200448_fa532a7c-eb8c-4a5b-926c-745c6018b0bf.jpg?v=1690340997&width=800" alt="SQUIDHAUS  4 INCH INSEAM BLACK SHORTS"> <!--Optimization: Alt text that describes my product image -->
+                <h3 class="product-name">SQUIDHAUS 4IN INSEAM BLACK SHORTS</h3> <!-- optimization: subtopic header with keyword research -->
+                <p>$50</p>
+                <button class="buy-now-button">Buy Now</button>
+            </div>
+            <div>
+                <img src="https://squidhaus.com/cdn/shop/files/PhotoRoom_000_20230731_170847.jpg?v=1690848586&width=800" alt="SQUIDHAUS  4 INCH INSEAM UNC BLUE"> <!--Optimization: Alt text that describes my product image -->
+                <h3 class="product-name">SQUIDHAUS 4IN INSEAM UNC BLUE</h3> <!-- optimization: subtopic header with keyword research -->
+                <p>$50</p>
+                <button class="buy-now-button">Buy Now</button>
+            </div>
+            <div>
+                <img src="https://squidhaus.com/cdn/shop/files/PhotoRoom_20230731_171235.jpg?v=1690848788&width=800" alt="SQUIDHAUS  4 INCH INSEAM WHITE SHORTS"> <!--Optimization: Alt text that describes my product image -->
+                <h3 class="product-name">SQUIDHAUS 4IN INSEAM WHITE SHORTS</h3> <!-- optimization: subtopic header with keyword research -->
+                <p>$50</p>
+                <button class="buy-now-button">Buy Now</button>
+            </div>
+            <div>
+                <img src="https://squidhaus.com/cdn/shop/files/PhotoRoom_001_20230725_2016283.jpg?v=1703355485&width=800" alt="SQUIDHAUS  4 INCH INSEAM NAVY BLUE SHORTS"> <!--Optimization: Alt text that describes my product image -->
+                <h3 class="product-name">SQUIDHAUS 4IN INSEAM NAVY BLUE SHORTS</h3> <!-- optimization: subtopic header with keyword research -->
+                <p>$50</p>
+                <button class="buy-now-button">Buy Now</button>
+            </div>
+            <div>
+                <img src="https://squidhaus.com/cdn/shop/files/SH_OLD_MONEY_SHORTS.jpg?v=1701385282&width=800" alt="SQUIDHAUS  4 INCH INSEAM OLD MONEY GREEN SHORTS"> <!--Optimization: Alt text that describes my product image -->
+                <h3 class="product-name">SQUIDHAUS 4IN INSEAM OLD MONEY GREEN SHORTS</h3> <!-- optimization: subtopic header with keyword research -->
+                <p>$50</p>
+                <button class="buy-now-button">Buy Now</button>
+            </div>
+            <div>
+                <img src="https://squidhaus.com/cdn/shop/files/PhotoRoom_002_20230725_200448.jpg?v=1690341010&width=800" alt="SQUIDHAUS  4 INCH INSEAM BROWN SHORTS"> <!--Optimization: Alt text that describes my product image -->
+                <h3 class="product-name">SQUIDHAUS 4IN INSEAM BROWN SHORTS</h3> <!-- optimization: subtopic header with keyword research -->
+                <p>$50</p>
+                <button class="buy-now-button">Buy Now</button>
+            </div>
+            <div>
+                <img src="https://squidhaus.com/cdn/shop/files/PhotoRoom_003_20230725_200448.jpg?v=1690340986&width=800" alt="SQUIDHAUS 4 INCH INSEAM WHITE & RED SHORTS">  <!--Optimization: Alt text that describes my product image -->
+                <h3 class="product-name">SQUIDHAUS 4IN INSEAM WHITE & RED SHORTS</h3> <!-- optimization: subtopic header with keyword research -->
+                <p>$50</p>
+                <button class="buy-now-button">Buy Now</button>
+            </div>
+            <div>
+                <img src="https://squidhaus.com/cdn/shop/files/PhotoRoom_004_20230725_200448.jpg?v=1690341042&width=800" alt="SQUIDHAUS 4 INCH INSEAM RED SHORTS"> <!--Optimization: Alt text that describes my product image -->
+                <h3 class="product-name">SQUIDHAUS 4IN INSEAM RED SHORTS</h3> <!-- optimization: subtopic header with keyword research -->
+                <p>$50</p>
+                <button class="buy-now-button">Buy Now</button>
+            </div>
+        </div>
+    </main>
+</body>
+</html>
